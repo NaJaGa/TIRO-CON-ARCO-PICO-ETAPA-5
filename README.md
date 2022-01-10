@@ -1,1 +1,1 @@
-# TIRO-CON-ARCO-PICO-ETAPA-5
+# Plantilla del proyecto 26
